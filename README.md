@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmathers
 - 👀 I’m interested in UI/UX, web development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS, Selenium
 - 💞️ I’m looking to collaborate on anything privacy-related
 - 📫 How to reach me? message me on github
 
